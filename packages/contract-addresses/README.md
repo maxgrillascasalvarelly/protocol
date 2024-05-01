@@ -1,4 +1,4 @@
-## @0x/contract-addresses
+ maxgrillasca@0x/grillasca.com
 
 A tiny utility library for getting known deployed contract addresses for a
 particular network.
